@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+fake_job_postings.csv
+fake_job_postings_cleaned.csv
+fake_job_postings_preprocessed.csv
+train_data.csv
+test_data.csv
+*.npz
+*.pkl
+!final_model.pkl
+!final_vectorizer.pkl
